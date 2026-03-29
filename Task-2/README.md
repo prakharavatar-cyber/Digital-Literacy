@@ -1,0 +1,1 @@
+Hi , there , My name is Prakhar Kapoor , Registration No.-25MIP10044, I am from Integrated M.Tech CSE(Computational and Data Science) branch. My goal is to become a data scientist and have keen interest in machine learning models.
